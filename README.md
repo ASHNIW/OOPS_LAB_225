@@ -5,7 +5,7 @@
 
 ### Student Name    : ASHWIN  
 ### College Name    : Amrita Vishwa Vidyapeetham, Chennai  
-### Year / Semester : I Year  
+### Year / Semester : I YEAR | 2ND SEM 
 ### Subject         : Object Oriented Programming  
 ### Language Used   : Java  
 
