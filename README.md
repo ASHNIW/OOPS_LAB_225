@@ -22,4 +22,4 @@ All programs are written using simple Java syntax for easy understanding and lab
 
 ## REPOSITORY STRUCTURE
 
-📁 <img src="https://img.icons8.com/color/24/folder-invoices.png"/> **OOPS_LAB_225**
+<img src="https://img.icons8.com/color/24/folder-invoices.png"/> **OOPS_LAB_225**
