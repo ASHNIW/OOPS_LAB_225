@@ -1,25 +1,37 @@
-# OBJECT ORIENTED PROGRAMMING LAB  
-## OOPS_LAB_225
+<div align="center">
+
+# ☕ Object Oriented Programming Lab
+## 🚀 OOPS_LAB_225
+
+![Java](https://img.shields.io/badge/Language-Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Institution](https://img.shields.io/badge/Institution-Amrita%20Vishwa%20Vidyapeetham-ae1e48?style=for-the-badge)
+![Semester](https://img.shields.io/badge/Semester-2nd-blue?style=for-the-badge)
+
+</div>
 
 ---
 
-### Student Name    : ASHWIN  
-### College Name    : Amrita Vishwa Vidyapeetham, Chennai  
-### Year / Semester : I YEAR | 2ND SEM 
-### Subject         : Object Oriented Programming  
-### Language Used   : Java  
+### 👤 Student Details
+
+| Key | Value |
+| :--- | :--- |
+| **Student Name** | **ASHWIN** |
+| **College Name** | Amrita Vishwa Vidyapeetham, Chennai |
+| **Year / Semester** | I Year \| 2nd Sem |
+| **Subject** | Object Oriented Programming |
+| **Lab Code** | `OOPS_LAB_225` |
 
 ---
 
-## ABOUT THIS REPOSITORY
+### 📖 About This Repository
 
-This repository contains Java programs developed as part of the Object Oriented Programming Laboratory.  
-The programs are intended for first-year students to understand basic and intermediate Object-Oriented Programming concepts using Java.
+> *This repository serves as a collection of practical experiments and assignments for the Object Oriented Programming curriculum.*
 
-All programs are written using simple Java syntax for easy understanding and lab examination purposes.
+This repository contains **Java programs** developed as part of the Object Oriented Programming Laboratory. The programs are strictly intended for first-year students to grasp basic and intermediate OOP concepts.
+
+**Key Features:**
+* ✅ Covers fundamental OOP principles (Inheritance, Polymorphism, Encapsulation, Abstraction).
+* ✅ Written in simple, clean Java syntax.
+* ✅ Optimized for easy understanding and lab examination preparation.
 
 ---
-
-## REPOSITORY STRUCTURE
-
-📁 **OOPS_LAB_225**
