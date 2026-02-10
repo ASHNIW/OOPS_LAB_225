@@ -118,7 +118,7 @@
 
 1.  **Clone the Repository**
     ```bash
-    git clone [https://github.com/your-username/OOPS_LAB_225.git](https://github.com/your-username/OOPS_LAB_225.git)
+    git clone [https://github.com/ASHNIW/OOPS_LAB_225.git](https://github.com/ASHNIW/OOPS_LAB_225.git)
     ```
 2.  **Navigate to Directory**
     ```bash
