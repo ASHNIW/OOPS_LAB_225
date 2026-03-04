@@ -41,7 +41,7 @@
         <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="150px" style="border-radius: 50%;">
         <br/><br/>
         <h3>ASHWIN</h3>
-        <p><i>Future Software Engineer</i></p>
+        <p><i>Developer</i></p>
       </td>
       <td width="5%"></td> <td width="65%" valign="middle">
         <blockquote>
